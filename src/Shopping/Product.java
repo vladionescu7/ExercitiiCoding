@@ -2,8 +2,8 @@ package Shopping;
 // Grocery Shopping
 //-v-Create class Product, it should contain at least two fields – name and price.
 //-v-Create an empty array of Products – it’s size should be at least 5.
-//--Fill it within while loop. Simulate the process of doing shopping:
-//--ask for a product,
+//-v-Fill it within while loop. Simulate the process of doing shopping:
+//-v-ask for a product,
 //--add it to the cart (array),
 //--change index,
 //--if index will be greater than 5 – finish shopping,
