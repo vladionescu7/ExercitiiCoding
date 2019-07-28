@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b3677-5176-4cfc-ac07-8fd59b4e2365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingCodingCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/DecodingCodingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/DrawingsUsingNestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercitii/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" afterDir="false" />
@@ -26,11 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+            <state relative-caret-position="302">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Division.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="892">
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -45,7 +59,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java" />
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/DrawingsUsingNestedLoops.java" />
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java" />
+        <option value="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" />
       </list>
     </option>
   </component>
@@ -119,16 +134,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Shopping">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.Basics" />
+  <component name="RunManager" selected="Application.Division">
+    <configuration name="DecodingCodingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.DecodingCodingMachine" />
       <module name="CodingCodingCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingCodingCoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodingCodingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.DecodingCodingMachine" />
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.Division" />
       <module name="CodingCodingCoding" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Division" />
         <item itemvalue="Application.Shopping" />
         <item itemvalue="Application.DrawingsUsingNestedLoops" />
         <item itemvalue="Application.FlowControl" />
         <item itemvalue="Application.DecodingCodingMachine" />
-        <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -221,9 +242,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297587" />
       <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49932885" visible="true" weight="0.2935657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,13 +274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/DrawingsUsingNestedLoops.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -269,8 +283,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        <state relative-caret-position="302">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
