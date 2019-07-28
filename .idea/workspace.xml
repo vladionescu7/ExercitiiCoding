@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b3677-5176-4cfc-ac07-8fd59b4e2365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/RandomArrayMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/RandomStringArrayLongestCharSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/SimpleEcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shopping/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shopping/StoreManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercitii/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingCodingCoding/CodingCodingCoding/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingCodingCoding/CodingCodingCoding/Division.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" afterDir="false" />
@@ -23,28 +28,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java">
+        <entry file="file://$PROJECT_DIR$/src/Shopping/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="203">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+              <folding>
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Division.java">
+        <entry file="file://$PROJECT_DIR$/src/Shopping/StoreManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="892">
-              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            <state relative-caret-position="396">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -71,6 +77,15 @@
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/DrawingsUsingNestedLoops.java" />
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java" />
         <option value="$PROJECT_DIR$/src/CodingCodingCoding/Division.java" />
+        <option value="$PROJECT_DIR$/src/CodingCodingCoding/SimpleEcho.java" />
+        <option value="$PROJECT_DIR$/src/CodingCodingCoding/RandomArrayMaxValue.java" />
+        <option value="$PROJECT_DIR$/src/CodingCodingCoding/RandomStringArrayLongestCharSequence.java" />
+        <option value="$PROJECT_DIR$/src/ObjectOrientedProgramming/Product.java" />
+        <option value="$PROJECT_DIR$/src/ObjectOrientedProgramming/main.java" />
+        <option value="$PROJECT_DIR$/src/Shopping/main.java" />
+        <option value="$PROJECT_DIR$/src/Shopping/Store.java" />
+        <option value="$PROJECT_DIR$/src/Shopping/Product.java" />
+        <option value="$PROJECT_DIR$/src/Shopping/StoreManager.java" />
       </list>
     </option>
   </component>
@@ -106,6 +121,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="CodingCodingCoding" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodingCodingCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingCodingCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Shopping" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,20 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Division">
-    <configuration name="DecodingCodingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.DecodingCodingMachine" />
-      <module name="CodingCodingCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingCodingCoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.Division" />
       <module name="CodingCodingCoding" />
@@ -161,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingsUsingNestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.DrawingsUsingNestedLoops" />
+    <configuration name="RandomArrayMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.RandomArrayMaxValue" />
       <module name="CodingCodingCoding" />
       <extension name="coverage">
         <pattern>
@@ -174,8 +182,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.FlowControl" />
+    <configuration name="RandomStringArrayLongestCharSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.RandomStringArrayLongestCharSequence" />
       <module name="CodingCodingCoding" />
       <extension name="coverage">
         <pattern>
@@ -187,12 +195,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.Shopping" />
+    <configuration name="SimpleEcho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.SimpleEcho" />
       <module name="CodingCodingCoding" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CodingCodingCoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shopping.StoreManager" />
+      <module name="CodingCodingCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shopping.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StoreManager" />
+        <item itemvalue="Application.RandomStringArrayLongestCharSequence" />
+        <item itemvalue="Application.RandomArrayMaxValue" />
+        <item itemvalue="Application.SimpleEcho" />
         <item itemvalue="Application.Division" />
-        <item itemvalue="Application.Shopping" />
-        <item itemvalue="Application.DrawingsUsingNestedLoops" />
-        <item itemvalue="Application.FlowControl" />
-        <item itemvalue="Application.DecodingCodingMachine" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +266,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49932885" visible="true" weight="0.2935657" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49932885" visible="true" weight="0.33914208" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -297,8 +318,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/Division.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="308">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/SimpleEcho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/RandomStringArrayLongestCharSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingCodingCoding/RandomArrayMaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="89" lean-forward="true" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shopping/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Shopping/StoreManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>

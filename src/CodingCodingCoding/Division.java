@@ -14,13 +14,13 @@ public class Division {
         System.out.print("a= ");
         a=input.nextDouble();
         System.out.print("b= ");
-        b=input.nextDouble(); c=a/b;
+        b=input.nextDouble();
         while(b!=0){
-
+            c=a/b;
             System.out.print("Reaultatul este: ");
             System.out.printf("%.4f",c);
             System.out.println();
-            c=c/b;
+          // c=c/b;
             System.out.print("b= ");
             b=input.nextDouble();
         }
