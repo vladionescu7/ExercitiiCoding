@@ -4,9 +4,9 @@ package Shopping;
 //-v-Create an empty array of Products – it’s size should be at least 5.
 //-v-Fill it within while loop. Simulate the process of doing shopping:
 //-v-ask for a product,
-//--add it to the cart (array),
-//--change index,
-//--if index will be greater than 5 – finish shopping,
+//-v-add it to the cart (array),
+//-v-change index,
+//-v-if index will be greater than 5 – finish shopping,
 //--*pay for the products. Station
 
 public class Product{
