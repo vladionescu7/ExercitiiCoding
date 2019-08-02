@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b3677-5176-4cfc-ac07-8fd59b4e2365" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingCodingCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/DecodingCodingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/DrawingsUsingNestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/FlowControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingCodingCoding/Shopping.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercitii/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Formule/src/ScoatereTVA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingCodingCoding/META-INF/CodingCodingCoding.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingCodingCoding/Shopping/StoreManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingCodingCoding/Shopping/StoreManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shopping/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shopping/StoreManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shopping/StoreManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" afterDir="false" />
