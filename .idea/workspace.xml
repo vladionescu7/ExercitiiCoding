@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870b3677-5176-4cfc-ac07-8fd59b4e2365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Petrol/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Petrol/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Petrol/Refueling.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercitii/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Formule/src/ScoatereTVA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercitii/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prima Aplicatie/src/com/sda11/exempleJava/HelloWorld.java" afterDir="false" />
@@ -53,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StoreManager">
-    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingCodingCoding.Division" />
+  <component name="RunManager" selected="Application.Petrol">
+    <configuration name="Petrol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Petrol.Petrol" />
       <module name="CodingCodingCoding" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingCodingCoding.*" />
+          <option name="PATTERN" value="Petrol.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Petrol" />
         <item itemvalue="Application.StoreManager" />
         <item itemvalue="Application.RandomStringArrayLongestCharSequence" />
         <item itemvalue="Application.RandomArrayMaxValue" />
         <item itemvalue="Application.SimpleEcho" />
-        <item itemvalue="Application.Division" />
       </list>
     </recent_temporary>
   </component>
