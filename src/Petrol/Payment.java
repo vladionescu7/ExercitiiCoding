@@ -4,10 +4,16 @@ public class Payment {
 
 double sumaDePlata;
 double rest;
+double restanta;
 
-    public Payment(double sumaDePlata, double rest) {
+
+    public Payment(){}
+
+    public Payment(double sumaDePlata, double rest, double restanta) {
         this.sumaDePlata = sumaDePlata;
         this.rest = rest;
+        this.restanta= restanta;
+
     }
 
     public double getSumaDePlata() {
@@ -24,5 +30,13 @@ double rest;
 
     public void setRest(double rest) {
         this.rest = rest;
+    }
+
+    public double getRestanta() {
+        return restanta;
+    }
+
+    public void setRestanta(double restanta) {
+        this.restanta = restanta;
     }
 }
