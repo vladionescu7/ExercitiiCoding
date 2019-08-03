@@ -19,7 +19,7 @@ public class Petrol {
         Scanner input = new Scanner(System.in);
         Refueling ref = new Refueling();
         Payment pay = new Payment();
-        ref.sumaFinala=0;
+        ref.sumaFinala = 0;
 
 
         refueling(ref);
@@ -61,12 +61,12 @@ public class Petrol {
         if (modalitate.equals("cantitate")) {
             System.out.print("Introduceti cantitatea de carburant: ");
             ref.setPetrolAmount(input.nextDouble() * ref.petrolPrice);
-            System.out.printf("Aveti de platit " + "%.2f",ref.getPetrolAmount());
+            System.out.printf("Aveti de platit " + "%.2f", ref.getPetrolAmount());
             System.out.print(" lei");
             System.out.println();
-            ref.setSumaTotala(ref.getSumaTotala()+ref.getPetrolAmount());
-            ref.sumaFinala=ref.sumaFinala+ref.sumaTotala;
-            System.out.printf("Suma totala: " + "%.2f",ref.getSumaFinala());
+            ref.setSumaTotala(ref.getSumaTotala() + ref.getPetrolAmount());
+            ref.sumaFinala = ref.sumaFinala + ref.sumaTotala;
+            System.out.printf("Suma totala: " + "%.2f", ref.getSumaFinala());
             System.out.print(" lei");
             System.out.println();
         }
@@ -79,12 +79,11 @@ public class Petrol {
             System.out.print(" litri");
             System.out.println();
 
-            ref.setSumaTotala(ref.getSumaTotala()+ref.getPetrolAmount());
-            ref.sumaFinala=ref.sumaFinala+ref.sumaTotala;
+            ref.setSumaTotala(ref.getSumaTotala() + ref.getPetrolAmount());
+            ref.sumaFinala = ref.sumaFinala + ref.sumaTotala;
             System.out.println("Suma totala: ");
             System.out.printf("%.2f", ref.getSumaFinala());
             System.out.print(" lei");
-
 
 
         }
@@ -96,21 +95,34 @@ public class Petrol {
     public static String payment(Refueling ref, Payment pay) {
         Scanner input = new Scanner(System.in);
 
+
+
         System.out.println("Introduceti suma totala: ");
         pay.sumaDePlata = input.nextDouble();
 
 
         if (pay.sumaDePlata > ref.getSumaFinala()) {
             pay.rest = pay.sumaDePlata - ref.getSumaFinala();
-            System.out.printf("Va rugam ridicati restul de " + "%.2f",pay.rest);
+            System.out.printf("Va rugam ridicati restul de " + "%.2f", pay.rest);
             System.out.print(" lei");
+            System.out.println();
+            System.out.println("Va multumim!" + "\n Drum bun!");
         } else if (pay.sumaDePlata < ref.getSumaFinala()) {
-            pay.restanta = ref.getSumaFinala() - pay.sumaDePlata;
-            System.out.println("Mai aveti de platit " + pay.restanta + " lei");
-            pay.sumaDePlata = input.nextDouble();
+            pay.setRestanta(ref.getSumaFinala());
+            while (pay.sumaDePlata < pay.getRestanta()) {
+                pay.setRestanta(pay.getRestanta()- pay.sumaDePlata);
+                System.out.printf("Mai aveti de platit " +"%.2f",pay.getRestanta());
+                System.out.print(" lei");
+                System.out.println();
+                System.out.println("Introduceti restul de plata: ");
+                pay.sumaDePlata = input.nextDouble();
+                if(pay.sumaDePlata==ref.getSumaFinala()){
+                    System.out.println("Va multumim!" + "\n Drum bun!");
+                }
+            }
 
         } else if (pay.sumaDePlata == ref.getSumaFinala()) {
-            System.out.println("Va multumim!"+"\n Drum bun!");
+            System.out.println("Va multumim!" + "\n Drum bun!");
         }
 
         String payment = "";
